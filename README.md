@@ -16,6 +16,6 @@ Parents can also message staff at the school with requests and interactions. The
 
 The security elements are great for the staff. They can enable and disable users as families come and go from the school and they can keep guardians and emergency contacts on file and easily accessible.
 
-#Future Development
+# Future Development
 
 The team did have many visions for where this application could go. Things like a payment tracker eventually being incorporated and sclability to an enterprise level, where in this technology could be used at many locations under one larger childcare company. 
